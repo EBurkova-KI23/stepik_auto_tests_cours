@@ -1,6 +1,4 @@
 # stepik_homework
-<<<<<<< HEAD
-world 
-hello
-=======
-
+hehehe
+hehe
+he
